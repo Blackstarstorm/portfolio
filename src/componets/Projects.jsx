@@ -54,7 +54,7 @@ export default function Projects() {
         <h2>What Player Are You</h2>
               <p>Learn more about popular game genres and see what you would enjoy best.
 
-              Front-end React, Ruby on Rails back-end routes, seed data, models, CSS styling and JavaScript too.</p>
+              Front-end React, Ruby on Rails back-end routes, seed data, models, CSS styling and JavaScript too. Users will need to register and login to view project.</p>
               <a href="http://player-are-you.surge.sh/" target="_blank" rel="noopener noreferrer">Go to Site</a>
             </div>
           </div>
