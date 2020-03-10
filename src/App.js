@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import Hero from './componets/Hero';
-import Nav from './componets/Nav';
-import About from './componets/About';
-import Projects from './componets/Projects';
-import Contact from './componets/Contact';
-import Skills from './componets/Skills';
-import Header from './componets/Header';
-import Footer from './componets/Footer';
+import Hero from './components/Hero';
+import Nav from './components/Nav';
+import About from './components/About';
+import Projects from './components/Projects';
+import Contact from './components/Contactt';
+import Skills from './components/Skills';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 
 class App extends React.Component {
