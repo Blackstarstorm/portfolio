@@ -273,6 +273,14 @@ margin-top: 5em;
   background-position: center;
   background-repeat: no-repeat;
 }
+
+#bg_5{
+  background-image: url("https://res.cloudinary.com/dvysqqdqe/image/upload/v1600537510/dayxp5y-ab62248e-522e-414c-94ae-9540c01f4082.png_ucikag.png");
+  object-fit: contain;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 /*////// Contact  //////*/
 input{
   width: 55%;

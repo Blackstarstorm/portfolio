@@ -63,6 +63,21 @@ export default function Projects() {
           </div>
         </div> 
         
+        <div className="card">
+        <div className="face face1">
+        <div className="content">
+        <h2>Rotom Dex</h2>
+              <p>Learn more about pokémon with your Rotom-Dex to help guide you. An improved version of Who's that Pokémon on a React frame.
+
+              Front-end React, JavaScript, getting API data and CSS styling too. </p>
+              <a href="http://rotom-dex.surge.sh/" target="_blank" rel="noopener noreferrer">Go to Site</a>
+            </div>
+          </div>
+          <div className="face face2" id="bg_5">
+            <h2>P5</h2>
+          </div>
+        </div> 
+        
       </div>
       
 
