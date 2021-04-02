@@ -76,6 +76,7 @@ export default function Projects() {
           <div className="face face2" id="bg_5">
             <h2>P5</h2>
           </div>
+          
         </div> 
         
       </div>
