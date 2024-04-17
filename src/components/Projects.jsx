@@ -37,7 +37,7 @@ export default function Projects() {
         <div className="card">
         <div className="face face1">
         <div className="content">
-        <h2>Scared Souls Yoga"Not the real site"</h2>
+        <h2>Sacred Souls Yoga"Not the real site"</h2>
               <p>A project made with other software engineer fellows and UXI students.
                 Having a site made with React front-end and  CSS styling.</p>
               <a href="http://sacredsoulsyoga.surge.sh/" target="_blank" rel="noopener noreferrer">Go to Site</a>
